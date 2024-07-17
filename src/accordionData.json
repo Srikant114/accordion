@@ -1,0 +1,44 @@
+{
+  "faq": [
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept Visa, MasterCard, American Express, Discover, and PayPal."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "Once your order has been shipped, you will receive an email with a tracking number and a link to track your package."
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "You can return any item within 30 days of purchase. The item must be in its original condition and packaging. Please visit our Returns page for more details."
+    },
+    {
+      "question": "How can I contact customer service?",
+      "answer": "You can contact our customer service team via email at support@ecommerceapp.com or call us at 1-800-123-4567."
+    },
+    {
+      "question": "Do you offer international shipping?",
+      "answer": "Yes, we ship to most countries worldwide. Shipping costs and delivery times vary depending on the destination."
+    },
+    {
+      "question": "How can I change or cancel my order?",
+      "answer": "If you need to change or cancel your order, please contact our customer service team as soon as possible. Once an order has been processed, we may not be able to make changes."
+    },
+    {
+      "question": "Do you offer gift cards?",
+      "answer": "Yes, we offer digital gift cards that can be purchased and sent via email. They can be used for any item in our store."
+    },
+    {
+      "question": "How do I apply a promo code?",
+      "answer": "You can apply a promo code at checkout. Enter the code in the 'Promo Code' field and click 'Apply'. The discount will be reflected in your total."
+    },
+    {
+      "question": "What do I do if I receive a defective item?",
+      "answer": "If you receive a defective item, please contact our customer service team with your order number and a photo of the defective item. We will arrange a replacement or refund for you."
+    },
+    {
+      "question": "How can I create an account?",
+      "answer": "To create an account, click on the 'Sign Up' button on the top right corner of our homepage and follow the instructions."
+    }
+  ]
+}
